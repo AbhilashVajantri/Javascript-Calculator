@@ -12,3 +12,4 @@ is evaluated. The function eval() will evaluate the expression which is formed b
     •	If the button “C” is clicked, ch will contain the value ‘C’, and the statement,
 document.form1.text1.value = “”;
 	will be executed and a blank character will be displayed in  the text field.
+	
